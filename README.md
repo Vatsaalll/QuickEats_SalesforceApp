@@ -1,4 +1,5 @@
 # QuickEats: Salesforce Food Redistribution Platform
+![QuickEats Homepage Screenshot](HomePageScreenshot.png)
 
 **QuickEats** is a Salesforce-based application designed to address the dual challenges of global food waste and local hunger. It provides an organized and efficient platform for food redistribution, connecting food donors (like restaurants and hotels) with organizations serving the underprivileged (like NGOs and community kitchens).
 

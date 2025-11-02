@@ -1,1 +1,1 @@
-# QuickEats---Salesforce-App
+# QuickEats_SalesforceApp
